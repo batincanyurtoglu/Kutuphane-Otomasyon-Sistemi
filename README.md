@@ -1,6 +1,6 @@
 # 📚 C# WinForms ile Kütüphane Otomasyon Sistemi
 
-Ankara Gazi Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği Bölümü **Bilgisayar Programlama** dersi kapsamında geliştirilmiş, katmanlı mimari mantığına uygun, güvenli ve sürdürülebilir bir **Kütüphane Yönetim ve Takip Otomasyonu** projesidir.
+Ankara Gazi Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği Bölümü Bilgisayar Programlama dersi kapsamında geliştirilmiş, katmanlı mimari mantığına uygun, güvenli ve sürdürülebilir bir **Kütüphane Yönetim ve Takip Otomasyonu** projesidir.
 
 ---
 
