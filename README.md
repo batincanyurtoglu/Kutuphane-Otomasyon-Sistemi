@@ -10,7 +10,7 @@ Ankara Gazi Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği Bölüm
 * **Güvenli Mimari:** SQL Injection gibi kritik güvenlik zafiyetlerini önlemek amacıyla tüm sorgularda `SqlCommand` parametre yapısı (`SqlParameter`) kullanılmıştır.
 * **Gelişmiş CRUD ve Yönetici Sınıfları:** Üye, Kitap ve Ödünç işlemleri için yazılan SQL sorguları, iş mantığını ayırmak adına statik yönetici sınıflarında (`UyeYonetici`, `KitapYonetici` vb.) toplanmıştır.
 * **Dinamik Stok ve İade Takibi:** Bir kitap ödünç verildiğinde ya da iade alındığında, ilgili kitabın stok durumu arka planda otomatik olarak güncellenir.
-* **Akıllı Kullanıcı Arayüzü (UI):** Teslim tarihi geçen ve henüz iade edilmemiş ödünç kitaplara ait satırlar, `RowPrePaint` olayı yakalanarak dinamik olarak **kırmızı** renkle boyanır ve yöneticinin gözünden kaçması engellenir.
+* **Akıllı Kullanıcı Arayüzü (UI):** Teslim tarihi geçen ve henüz iade edilmemiş ödünç kitaplara ait satırlar, `RowPrePaint` olayı yakalanarak dinamik olarak **kırmızı** renkle boyanır.
 
 ---
 
