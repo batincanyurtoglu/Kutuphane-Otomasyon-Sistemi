@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BatincanYurtoglu\\Desktop\\Kutuphane sistemi\\KendinTasarla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B6E526-6618-F0CA-F480-FDF72847DDCD}|KendinTasarla\\KendinTasarla.csproj|c:\\users\\batincanyurtoglu\\desktop\\kutuphane sistemi\\kendintasarla\\kendintasarla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D4B6E526-6618-F0CA-F480-FDF72847DDCD}|KendinTasarla\\KendinTasarla.csproj|solutionrelative:kendintasarla\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 156,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\BatincanYurtoglu\\Desktop\\Kutuphane sistemi\\KendinTasarla\\KendinTasarla\\Form1.cs",
+              "RelativeDocumentMoniker": "KendinTasarla\\Form1.cs",
+              "ToolTip": "C:\\Users\\BatincanYurtoglu\\Desktop\\Kutuphane sistemi\\KendinTasarla\\KendinTasarla\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "KendinTasarla\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T10:40:56.858Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
